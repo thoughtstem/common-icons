@@ -1,5 +1,5 @@
 #lang info
-(define collection "common-icons")
+(define collection "ts-icons")
 (define deps '("base" "define-assets-from"))
 (define build-deps '("scribble-lib" "racket-doc" "rackunit-lib"))
 (define scribblings '(("scribblings/common-icons.scrbl" ())))
