@@ -1,6 +1,8 @@
 #lang scribble/manual
-@require[@for-label[ts-icons
-                    racket/base]]
+
+@require[scribble/extract]
+
+@require[@for-label[racket/base]]
 
 @title{ts-icons}
 @author{thoughtstem}
@@ -11,4 +13,4 @@ A package for icons used across various tech at ThoughtSTEM.
 
 @(require scribble/extract)
 
-@(include-extracted "../main.rkt")
+@;(include-extracted "../main.rkt")
