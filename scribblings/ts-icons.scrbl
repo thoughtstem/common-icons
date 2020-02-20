@@ -1,11 +1,11 @@
 #lang scribble/manual
-@require[@for-label[common-icons
+@require[@for-label[ts-icons
                     racket/base]]
 
-@title{common-icons}
+@title{ts-icons}
 @author{thoughtstem}
 
-@defmodule[common-icons]
+@defmodule[ts-icons]
 
 A package for icons used across various tech at ThoughtSTEM.
 
